@@ -1,0 +1,776 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.17)  2 NOV 2019 16:31
+entering extended mode
+**./Masterproef_NL_2012.tex
+(Masterproef_NL_2012.tex
+LaTeX2e <2018-04-01> patch level 5
+(C:/Users/rapha/texmf\tex/latex\base\fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(C:/Users/rapha/texmf\tex/latex\base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(C:/Users/rapha/texmf\tex/latex\base\ts1enc.dfu
+File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+)))
+(C:/Users/rapha/texmf\tex/latex\base\book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(C:/Users/rapha/texmf\tex/latex\base\bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:/Users/rapha/texmf\tex/latex\graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:/Users/rapha/texmf\tex/latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:/Users/rapha/texmf\tex/latex\graphics\graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:/Users/rapha/texmf\tex/latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:/Users/rapha/texmf\tex/latex\graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(C:/Users/rapha/texmf\tex/latex\graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:/Users/rapha/texmf\tex/latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:/Users/rapha/texmf\tex/latex\graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:/Users/rapha/texmf\tex/latex\textpos\textpos.sty
+Package: textpos 2016/06/07 v1.8
+
+Package: textpos 2016/06/07 1.8, absolute positioning of text on the page
+\TP@textbox=\box26
+\TPHorizModule=\dimen105
+\TPVertModule=\dimen106
+\TP@margin=\dimen107
+\TP@absmargin=\dimen108
+Grid set 16 x 16 = 37.34424pt x 52.81541pt
+\TPboxrulesize=\dimen109
+\TP@tbargs=\toks15
+\TP@prevdepth=\dimen110
+) (C:/Users/rapha/texmf\tex/latex\tools\longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip43
+\LTright=\skip44
+\LTpre=\skip45
+\LTpost=\skip46
+\LTchunksize=\count89
+\LTcapwidth=\dimen111
+\LT@head=\box27
+\LT@firsthead=\box28
+\LT@foot=\box29
+\LT@lastfoot=\box30
+\LT@cols=\count90
+\LT@rows=\count91
+\c@LT@tables=\count92
+\c@LT@chunks=\count93
+\LT@p@ftn=\toks16
+)
+(C:/Users/rapha/texmf\tex/latex\psnfss\helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\base\glossaries.sty"
+Package: glossaries 2019/09/28 v4.43 (NLCT)
+
+(C:/Users/rapha/texmf\tex/latex\base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:/Users/rapha/texmf\tex/latex\xkeyval\xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count94
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\mfirstuc\mfirstuc.sty"
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
+
+(C:/Users/rapha/texmf\tex/latex\etoolbox\etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count95
+)
+\@glsmfirst=\toks19
+\@glsmrest=\toks20
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\textcase\textcase.sty"
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xfor\xfor.sty"
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool-base.sty"
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+
+(C:/Users/rapha/texmf\tex/latex\amsmath\amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(C:/Users/rapha/texmf\tex/latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:/Users/rapha/texmf\tex/latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen112
+))
+(C:/Users/rapha/texmf\tex/latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen113
+)
+(C:/Users/rapha/texmf\tex/latex\amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box31
+\strutbox@=\box32
+\big@size=\dimen114
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks22
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks23
+\eqnshift@=\dimen115
+\alignsep@=\dimen116
+\tagshift@=\dimen117
+\tagwidth@=\dimen118
+\totwidth@=\dimen119
+\lineht@=\dimen120
+\@envbody=\toks24
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\substr\substr.sty"
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count108
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool-fp.sty"
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp.sty"
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\defpattern.sty"
+Package: defpattern 1994/10/12
+\actioncount=\count109
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-basic.sty"
+Package: fp-basic 1996/05/13
+\FP@xs=\count110
+\FP@xia=\count111
+\FP@xib=\count112
+\FP@xfa=\count113
+\FP@xfb=\count114
+\FP@rega=\count115
+\FP@regb=\count116
+\FP@regs=\count117
+\FP@times=\count118
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-addons.sty"
+Package: fp-addons 1995/03/15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-snap.sty"
+Package: fp-snap 1995/04/05
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-exp.sty"
+Package: fp-exp 1995/04/03
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-trigo.sty"
+Package: fp-trigo 1995/04/14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-pas.sty"
+Package: fp-pas 1994/08/29
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-random.sty"
+Package: fp-random 1995/02/23
+\FPseed=\count119
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-eqn.sty"
+Package: fp-eqn 1995/04/03
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-upn.sty"
+Package: fp-upn 1996/10/21
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-eval.sty"
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks26
+\@dtl@tmpcount=\count120
+\dtl@tmplength=\skip50
+\dtl@sortresult=\count121
+\@dtl@numgrpsepcount=\count122
+\@dtl@datatype=\count123
+\dtl@codeA=\count124
+\dtl@codeB=\count125
+\@dtl@foreach@level=\count126
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\base\glossaries-compatible-3
+07.sty"
+Package: glossaries-compatible-307 2019/09/28 v4.43 (NLCT)
+)
+\gls@level=\count127
+\@gls@tmpb=\toks27
+\gls@tmplen=\skip51
+\glskeylisttok=\toks28
+\glslabeltok=\toks29
+\glsshorttok=\toks30
+\glslongtok=\toks31
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-hypernav.sty
+"
+Package: glossary-hypernav 2019/09/28 v4.43 (NLCT)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-list.sty"
+Package: glossary-list 2019/09/28 v4.43 (NLCT)
+\glslistdottedwidth=\skip52
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-long.sty"
+Package: glossary-long 2019/09/28 v4.43 (NLCT)
+\glsdescwidth=\skip53
+\glspagelistwidth=\skip54
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-super.sty"
+Package: glossary-super 2019/09/28 v4.43 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\supertabular\supertabular.sty"
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count128
+\ST@wd=\dimen121
+\ST@rightskip=\skip55
+\ST@leftskip=\skip56
+\ST@parfillskip=\skip57
+\ST@pageleft=\dimen122
+\ST@headht=\dimen123
+\ST@tailht=\dimen124
+\ST@pagesofar=\dimen125
+\ST@pboxht=\dimen126
+\ST@lineht=\dimen127
+\ST@stretchht=\dimen128
+\ST@prevht=\dimen129
+\ST@toadd=\dimen130
+\ST@dimen=\dimen131
+\ST@pbox=\box33
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-tree.sty"
+Package: glossary-tree 2019/09/28 v4.43 (NLCT)
+\glstreeindent=\skip58
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2019/05/05 v5.2 Nomenclature package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\tocbasic.sty"
+Package: tocbasic 2019/02/01 v3.26b KOMA-Script package (handling toc-files)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty"
+Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty"
+Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
+))
+\scr@dte@tocline@numberwidth=\skip59
+\scr@dte@tocline@numbox=\box34
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 155.
+Package tocbasic Info: setting babel extension for `nls' on input line 156.
+\nomlabelwidth=\dimen132
+\nom@tempdim=\dimen133
+\nomitemsep=\skip60
+)
+\@nomenclaturefile=\write3
+\openout3 = `Masterproef_NL_2012.nlo'.
+
+Package nomencl Info: Writing nomenclature file Masterproef_NL_2012.nlo on inpu
+t line 54.
+\glswrite=\write4
+\glo@main@file=\write5
+\openout5 = `Masterproef_NL_2012.glo'.
+
+Package glossaries Info: Writing glossary file Masterproef_NL_2012.glo on input
+ line 66.
+
+(Masterproef_NL_2012.aux)
+\openout1 = `Masterproef_NL_2012.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count129
+\scratchdimen=\dimen134
+\scratchbox=\box35
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count132
+\MPscratchDim=\dimen135
+\MPnumerator=\count133
+\makeMPintoPDFobject=\count134
+\everyMPtoPDFconversion=\toks33
+) (C:/Users/rapha/texmf\tex/latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(C:/Users/rapha/texmf\tex/latex\oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(C:/Users/rapha/texmf\tex/latex\oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+(Masterproef_NL_2012.glsdefs)
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 82.
+ (C:/Users/rapha/texmf\tex/latex\psnfss\ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+Overfull \hbox (26.96353pt too wide) in paragraph at lines 85--86
+[][][][][][][] 
+ []
+
+<LogoKULeuven.png, id=1, 401.5pt x 143.53625pt>
+File: LogoKULeuven.png Graphic file (type png)
+<use LogoKULeuven.png>
+Package pdftex.def Info: LogoKULeuven.png  used on input line 90.
+(pdftex.def)             Requested size: 157.58296pt x 56.33646pt.
+LaTeX Font Info:    Calculating math sizes for size <40> on input line 97.
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <40> not available
+(Font)              size <24.88> substituted on input line 97.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <27.99988> not available
+(Font)              size <24.88> substituted on input line 97.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 97.
+
+LaTeX Font Info:    Calculating math sizes for size <20> on input line 98.
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <13.99994> not available
+(Font)              size <14.4> substituted on input line 98.
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 105.
+
+Underfull \hbox (badness 3386) in paragraph at lines 105--105
+[]\OT1/phv/m/n/12 De achter-grond kan wit bli-jven of je
+ []
+
+
+Overfull \hbox (6.80116pt too wide) in paragraph at lines 105--106
+[]  
+ []
+
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 112.
+
+Overfull \hbox (24.18004pt too wide) in paragraph at lines 144--145
+[][][] 
+ []
+
+[1
+
+\openout4 = `Masterproef_NL_2012.ist'.
+
+{C:/Users/rapha/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./LogoKULeu
+ven.png>]
+\openout2 = `chapters/preface/preface.aux'.
+
+ (chapters/preface/preface.tex [2
+
+
+])
+\openout2 = `chapters/preface/abstract.aux'.
+
+ (chapters/preface/abstract.tex
+[3
+
+
+
+
+])
+\openout2 = `chapters/preface/abstractnl.aux'.
+
+ (chapters/preface/abstractnl.tex [4
+
+
+
+
+]) (Masterproef_NL_2012.toc
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
+ [5
+
+
+
+])
+\tf@toc=\write6
+\openout6 = `Masterproef_NL_2012.toc'.
+
+
+[6] (Masterproef_NL_2012.lof)
+\tf@lof=\write7
+\openout7 = `Masterproef_NL_2012.lof'.
+
+ [7
+
+] (Masterproef_NL_2012.lot)
+\tf@lot=\write8
+\openout8 = `Masterproef_NL_2012.lot'.
+
+ [1
+
+]
+\openout2 = `chapters/introduction/introduction.aux'.
+
+
+(chapters/introduction/introduction.tex
+Chapter 1.
+[1
+
+
+])
+\openout2 = `chapters/introduction/litstudy.aux'.
+
+ (chapters/introduction/litstudy.tex
+Chapter 2.
+
+LaTeX Warning: Citation `vanLon2012saso' on page 2 undefined on input line 28.
+
+
+LaTeX Warning: Citation `DAR-WD' on page 2 undefined on input line 28.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+[2
+
+
+
+
+]
+Overfull \vbox (22.81729pt too high) has occurred while \output is active []
+
+
+[3]
+
+LaTeX Warning: Citation `Figure?' on page 4 undefined on input line 30.
+
+
+LaTeX Warning: Citation `CaseStudy' on page 4 undefined on input line 30.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 33.
+(C:/Users/rapha/texmf\tex/latex\base\omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
+
+
+LaTeX Warning: Citation `VoorgesteldeOplossing' on page 4 undefined on input li
+ne 45.
+
+[4])
+\openout2 = `chapters/mid/casestudy.aux'.
+
+ (chapters/mid/casestudy.tex
+Chapter 3.
+[5
+
+
+
+
+])
+\openout2 = `chapters/mid/taskallocation.aux'.
+
+ (chapters/mid/taskallocation.tex
+Chapter 4.
+[6
+
+
+
+
+])
+\openout2 = `chapters/mid/experiment.aux'.
+
+ (chapters/mid/experiment.tex
+Chapter 5.
+[7
+
+
+
+
+])
+\openout2 = `chapters/end/relatedwork.aux'.
+
+ (chapters/end/relatedwork.tex
+Chapter 6.
+[8
+
+
+
+
+])
+\openout2 = `chapters/end/conclusion.aux'.
+
+ (chapters/end/conclusion.tex
+Chapter 7.
+[9
+
+
+
+
+]) (Masterproef_NL_2012.bbl
+! Undefined control sequence.
+l.10 \newblock \doi
+                   {10.1109/SASO.2012.41}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [10
+
+
+
+]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <7> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 222.
+<sedes.png, id=73, 402.5439pt x 683.6742pt>
+File: sedes.png Graphic file (type png)
+<use sedes.png>
+Package pdftex.def Info: sedes.png  used on input line 232.
+(pdftex.def)             Requested size: 27.64043pt x 46.94704pt.
+
+Overfull \hbox (18.18004pt too wide) in paragraph at lines 236--237
+[][][] 
+ []
+
+
+Package glossaries Warning: No \printglossary or \printglossaries found. 
+(Remove \makeglossaries if you don't want any glossaries.) 
+This document will not have a glossary.
+
+[11 <./sedes.png>] (Masterproef_NL_2012.aux (chapters/preface/preface.aux)
+(chapters/preface/abstract.aux) (chapters/preface/abstractnl.aux)
+(chapters/introduction/introduction.aux) (chapters/introduction/litstudy.aux)
+(chapters/mid/casestudy.aux) (chapters/mid/taskallocation.aux)
+(chapters/mid/experiment.aux) (chapters/end/relatedwork.aux)
+(chapters/end/conclusion.aux))
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 15.12pt have occurred.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7990 strings out of 492969
+ 123362 string characters out of 3135846
+ 274883 words of memory out of 3000000
+ 11610 multiletter control sequences out of 15000+200000
+ 35419 words of font info for 85 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 51i,7n,43p,1987b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on Masterproef_NL_2012.pdf (19 pages, 243346 bytes).
+PDF statistics:
+ 113 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+

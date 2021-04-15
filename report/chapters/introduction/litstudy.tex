@@ -1,0 +1,54 @@
+% !TeX root = ../../thesis.tex
+\chapter{Literature study}
+
+\section{Pickup and delivery problem}
+\subsection{General PDP}
+\subsection{Dial-a-ride with deadlines} \label{DAR-WD}
+
+\section{MultiAgent Systems}
+
+\section{Anticipatory systems (Swarm intelligence)}
+\subsection{Belief - desire - intention systems}
+
+\section{Delegate MAS}
+\subsection{DMAS Coordination}
+\subsection{DMAS Patterns}
+
+\section{Task Allocation}
+\subsection{Task Allocation state of the art}
+\subsection{Task Allocation using DMAS}
+
+\section{Interdependent task allocation}
+\subsection{MultiRobot single task allocation}
+\subsection{MultiRobot multiple tasks allocation}
+\subsection{State of the art}
+
+
+\section{RinSim Simulator}
+RinSim is een simulator ontwikkeld in de Imec-Distrinet onderzoeksgroep van KuLeuven, door van Lon en Holvoet \cite{vanLon2012saso}. RinSim is specifiek ontwikkeld voor onderzoek rond het General PDP-probleem met time windows in academische kringen. Zoals besproken in \cite{DAR-WD} kan een Dial-a-Ride probleem met deadline worden omgezet in een PDPTW probleem.\\
+
+RinSim is gericht op het testen van logistieke problemen met behulp van Multi-agent systemen. RinSim laat toe om GPDP-problemen te configureren en verschillende oplossingsmethodes te testen en via statistieken te vergelijken. Het belangrijkste kenmerk van RinSim is het onderscheidt tussen het probleemgebied en de oplossing zoals te zien op figuur TODO \cite{Figure?}. De belangrijkste elementen uit de scenario’s worden gemodelleerd als agenten. De standaardmodellen kunnen uitgebreid worden gebaseerd op de noden van de te testen oplossingsmethodes. De volgende modellen worden gebruikt of uitgebreid voor het configureren van de real-time omgeving beschreven in \cite{CaseStudy}.
+TODO Add Figure
+\begin{itemize}
+\item \textbf{TimeModel}\\
+Het \textbf{TimeModel} vormt de basis van RinSim. Dit model laat toe om de simulator op basis van een ticklength de verschillende elementen die op dit model geabonneerd zijn een actie te laten uitvoeren. In andere woorden is de TimeModel verantwoordelijk voor de passerende tijd in de simulator.
+\item \textbf{RoadModel}\\
+Een \textbf{RoadModel} is een interface die verschillende voorstelling van de omgeving voorstelt in bijvoorbeeld een graaf of een vlak. In een vlak kunnen de agenten zich verplaatsen op het volledige vlak in rechte lijnen terwijl een graaf voorstelling zich meer op een traditioneel straten netwerk gedraagt. Alle RoadModels hebben ook maximale snelheden die moeten worden gerespecteerd door de \textbf{MovingRoadUser} agenten. 
+\item \textbf{PDP-Model}\\
+De \textbf{PDP-model} bevat de implementaties van de Pickup-and-delivery problemen met time-windows en verzorgt de ophaal- en afleveroperaties van de agenten, gekoppeld met de tijdsduur en capaciteiten van de agenten.
+\item \textbf{ComModel}\\
+Het \textbf{ComModel} laat communicatie toe tussen verschillende agenten die dit model implementeren. Om een realistische simulatie te maken kunnen classes die van dit model gebruik maken een maximum afstand instellen voor communicatie. Deze afstand wordt in het RoadModel afgebeeld als het aantal hops die kunnen gemaakt worden over verschillende noden.
+\item \textbf{StatsTracker}\\
+De \textbf{statsTracker} module is het centrale informatieverzamelingspunt van RinSim, door het uitbreiden van deze module kan de verkregen informatie van RinSim verwerkt en opgeslagen worden.
+\end{itemize}
+
+Hiernaast wordt gebruikt gemaakt van de GUI-model van RinSim om een voorstelling van het probleem te maken. Hiernaast worden ook demo’s gemaakt van de voorgestelde oplossing. De voorgestelde oplossing zoals voorgesteld in \cite{VoorgesteldeOplossing} wordt vrij ontwikkeld naast deze standaardmodellen die door RinSim wordt geleverd.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Keep the following \cleardoublepage at the end of this file, 
+% otherwise \includeonly includes empty pages.
+\cleardoublepage
+
+% vim: tw=70 nocindent expandtab foldmethod=marker foldmarker={{{}{,}{}}}

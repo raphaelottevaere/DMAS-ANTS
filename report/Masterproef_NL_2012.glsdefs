@@ -1,0 +1,30 @@
+\ifglsentryexists{md}{}%
+{%
+\gls@defglossaryentry{md}%
+{%
+name={MD},%
+sort={MD},%
+type={main},%
+first={MD},%
+firstplural={MDs},%
+text={MD},%
+plural={MDs},%
+description={molecular dynamics},%
+descriptionplural={molecular dynamics},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%

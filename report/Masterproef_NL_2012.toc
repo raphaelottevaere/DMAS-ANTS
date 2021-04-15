@@ -1,0 +1,41 @@
+\contentsline {chapter}{\numberline {1}This is introduction}{1}
+\contentsline {section}{\numberline {1.1}Context}{1}
+\contentsline {section}{\numberline {1.2}Problem?}{1}
+\contentsline {subsection}{\numberline {1.2.1}Dial-a-ride with deadlines?}{1}
+\contentsline {subsection}{\numberline {1.2.2}Interdependent task allocation problem?}{1}
+\contentsline {section}{\numberline {1.3}Goal?}{1}
+\contentsline {subsection}{\numberline {1.3.1}Contributions?}{1}
+\contentsline {subsection}{\numberline {1.3.2}Overview?}{1}
+\contentsline {chapter}{\numberline {2}Literature study}{2}
+\contentsline {section}{\numberline {2.1}Pickup and delivery problem}{3}
+\contentsline {subsection}{\numberline {2.1.1}General PDP}{3}
+\contentsline {subsection}{\numberline {2.1.2}Dial-a-ride with deadlines}{3}
+\contentsline {section}{\numberline {2.2}MultiAgent Systems}{3}
+\contentsline {section}{\numberline {2.3}Anticipatory systems (Swarm intelligence)}{3}
+\contentsline {subsection}{\numberline {2.3.1}Belief - desire - intention systems}{3}
+\contentsline {section}{\numberline {2.4}Delegate MAS}{3}
+\contentsline {subsection}{\numberline {2.4.1}DMAS Coordination}{3}
+\contentsline {subsection}{\numberline {2.4.2}DMAS Patterns}{3}
+\contentsline {section}{\numberline {2.5}Task Allocation}{3}
+\contentsline {subsection}{\numberline {2.5.1}Task Allocation state of the art}{3}
+\contentsline {subsection}{\numberline {2.5.2}Task Allocation using DMAS}{3}
+\contentsline {section}{\numberline {2.6}Interdependent task allocation}{3}
+\contentsline {subsection}{\numberline {2.6.1}MultiRobot single task allocation}{3}
+\contentsline {subsection}{\numberline {2.6.2}MultiRobot multiple tasks allocation}{3}
+\contentsline {subsection}{\numberline {2.6.3}State of the art}{3}
+\contentsline {section}{\numberline {2.7}RinSim Simulator}{3}
+\contentsline {chapter}{\numberline {3}Casestudy: haven agv case}{5}
+\contentsline {section}{\numberline {3.1}Situation}{5}
+\contentsline {section}{\numberline {3.2}Problems}{5}
+\contentsline {section}{\numberline {3.3}Requirements}{5}
+\contentsline {subsection}{\numberline {3.3.1}Functional requirements}{5}
+\contentsline {subsection}{\numberline {3.3.2}?}{5}
+\contentsline {chapter}{\numberline {4}Interdependent sequential task allocation }{6}
+\contentsline {chapter}{\numberline {5}Experiment/Simulatie}{7}
+\contentsline {section}{\numberline {5.1}Hypothesis}{7}
+\contentsline {section}{\numberline {5.2}Evaluation criteria}{7}
+\contentsline {section}{\numberline {5.3}Design}{7}
+\contentsline {section}{\numberline {5.4}Result}{7}
+\contentsline {section}{\numberline {5.5}Conclusion}{7}
+\contentsline {chapter}{\numberline {6}Related work}{8}
+\contentsline {chapter}{\numberline {7}Conclusion}{9}

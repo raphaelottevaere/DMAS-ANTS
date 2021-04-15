@@ -1,0 +1,29 @@
+package models;
+
+public enum DAREventType {
+
+
+	
+    NEW_TASK,
+
+    END_TASK,
+
+    AGV_AT_CHARGING_STATION,
+
+    AGV_LEAVING_CHARGING_STATION,
+
+    DROP_CAR,
+    
+    END_TEMP_MOVE, 
+
+    AGV_STUCK, 
+    
+    DEADLOCK_ADDED,
+    
+    DEADLOCK_FINISHED,
+    
+    PICKUP_TASK,
+    
+    PICKUP_TEMP_TASK, BETTER_PATH_SELECTED, BETTER_TASK_SELECTED
+
+}
